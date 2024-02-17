@@ -10,3 +10,9 @@ I enjoy collaborating and learning from fellow developers. If you're interested 
 
 Let's get to know each other better and explore the world of technology together! 😊✨
 
+<p align="left">
+<a href="https://github.com/yuliapratiwii">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=yuliapratiwii&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=yuliapratiwii&layout=compact&theme=algolia"/>
+</a>
+</p>
